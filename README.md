@@ -28,9 +28,3 @@ The Power BI dashboard provides:
 - Churn is concentrated among customers with shorter tenure
 - Higher monthly charges are associated with increased churn risk
 
-## Files Included
-- `telecom_churn.sql` – SQL queries used for analysis
-- `telecom_churn_analysis.ipynb` – Python EDA and segmentation
-- `powerbi_dashboard.pbix` – Power BI dashboard
-- `telecom_churn.csv` – Dataset used for analysis
-
