@@ -34,5 +34,3 @@ The Power BI dashboard provides:
 - `powerbi_dashboard.pbix` – Power BI dashboard
 - `telecom_churn.csv` – Dataset used for analysis
 
-## Author
-Snehal Kothawade
