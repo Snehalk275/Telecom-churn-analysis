@@ -22,6 +22,7 @@ The Power BI dashboard provides:
 - Key KPIs such as total customers, churned customers, and churn rate
 - Visual analysis of churn by contract, tenure, and payment method
 - Filters for interactive exploration
+- telecomchur.png
 
 ## Key Insights
 - Customers on month-to-month contracts have the highest churn rate
